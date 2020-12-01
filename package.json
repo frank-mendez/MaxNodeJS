@@ -16,5 +16,8 @@
 	"bugs": {
 		"url": "https://github.com/frank-mendez/MaxNodeJS/issues"
 	},
-	"homepage": "https://github.com/frank-mendez/MaxNodeJS#readme"
+	"homepage": "https://github.com/frank-mendez/MaxNodeJS#readme",
+	"devDependencies": {
+		"nodemon": "^2.0.6"
+	}
 }
